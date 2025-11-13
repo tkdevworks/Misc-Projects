@@ -17,6 +17,9 @@ A basic shooter game featuring player movement, shooting mechanics, and simple e
 **Purpose:**  
 Designed as an experiment in **game mechanics, coding logic, and interactive design** using GML.
 
+**Link Here: **
+https://tanish-user.github.io/
+
 ---
 
 ### 2. HTML/CSS Art Website
